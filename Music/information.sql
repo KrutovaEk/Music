@@ -79,6 +79,7 @@ INSERT INTO song(music_album_id, song_name, song_time_second) VALUES (11, 'Су�
 INSERT INTO song(music_album_id, song_name, song_time_second) VALUES (11, 'Мама', 278);
 INSERT INTO song(music_album_id, song_name, song_time_second) VALUES (12, 'Корабли', 228);
 INSERT INTO song(music_album_id, song_name, song_time_second) VALUES (12, 'Снег идёт', 238);
+INSERT INTO song(music_album_id, song_name, song_time_second) VALUES (1, 'Magical Mystery Tour', 171)
 
 
 -- collections
